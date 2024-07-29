@@ -90,3 +90,6 @@ cd AgriVision_AI
 
 # Install dependencies
 # Make sure you have R and required packages installed
+
+Contact
+For any inquiries or feedback, please contact us at lraghuram14@gmail.com
