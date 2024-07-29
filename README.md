@@ -50,6 +50,9 @@ Shows the output of the image processing, including the area in acres. It also d
 
 - ![image](https://github.com/user-attachments/assets/37756a06-95d4-45d0-a465-52088dada4ee)
 
+- ![image](https://github.com/user-attachments/assets/7f374443-542b-4329-b18c-00288e7f6827)
+
+
 
 ## Getting Started
 To get started with AgriVision, follow these steps:
@@ -70,10 +73,7 @@ AgriVision is a step forward in meeting the increasing demand for food. By bridg
 
 **"Empowering agriculture with technology for a sustainable future."**
 
-## Example Output
-![Masked Image](link-to-masked-image)
-![Original Image](link-to-original-image)
-![Result](link-to-result-image)
+
 
 ## Requirements
 - R
@@ -83,10 +83,10 @@ AgriVision is a step forward in meeting the increasing demand for food. By bridg
 ## Installation
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/AgriVision.git
+git clone https://github.com/Raghu-2005/AgriVision_AI.git
 
 # Navigate to the project directory
-cd AgriVision
+cd AgriVision_AI
 
 # Install dependencies
 # Make sure you have R and required packages installed
